@@ -1,0 +1,33 @@
+
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+body{
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-family: 'Itim', cursive;
+}
+.container{
+    
+    margin: 0 auto;
+    text-align: center;
+    padding:  3rem;
+    position: relative ;
+    background: rgb(12, 8, 0);
+}
+
+.container2{
+    color: rgb(255, 255, 255);
+    position: absolute;
+    left: 700;
+}
+
+.container3{
+    color: rgb(255, 255, 255);
+    position: absolute;
+    right:700;
+}
